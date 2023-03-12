@@ -1,7 +1,7 @@
 {
-    "name": "rawasymit/aderlee",
+    "name": "rawasymit/cms",
     "type": "project",
-    "description": "The rawasymit aderlee.",
+    "description": "The rawasymit cms aderlee.",
     "keywords": ["rawasymit", "aderlee"],
     "license": "MIT",
     "require": {
